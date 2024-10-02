@@ -1,1 +1,3 @@
 func c() {}
+
+func cc() {}
